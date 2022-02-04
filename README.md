@@ -1,7 +1,9 @@
-- Hi, I’m @joao lopes
-- I’m interested in python, django and data science.
-- I’m currently learning data science
-
-
-
-
+#João Lopes
+<sub> Data science student
+  
+  **Background in:** Python, Django.
+  
+  **Links:**
+* [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-lopes-058a60230/)
+  
+  
